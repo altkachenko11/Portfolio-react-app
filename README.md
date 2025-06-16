@@ -14,7 +14,7 @@ Hier findest du eine Übersicht meiner Fähigkeiten und Projekte.
 | Bereich  | Technologien                         |
 | -------- | ---------------------------------- |
 | Frontend | JavaScript, ReactJS, HTML, CSS|
-| Backend  | NodeJS, MySQL, MongoDB, PHP        |
+| Backend  |  MySQL, PHP        |
 | Testing  | Cypress, Git                       |
 
 ---
